@@ -1,0 +1,29 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Raw genome sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.sam
+*.bcf
+*.vcf.gz
+
+# Large reference genome files
+*.fna
+*.fa
+*.fasta
+*.fastq.gz
+
+# Generated analysis outputs
+logs/
+*.log
