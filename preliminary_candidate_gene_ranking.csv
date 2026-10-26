@@ -1,0 +1,3 @@
+gene,best_comparison,best_odds_ratio,best_FDR_q_value,comparisons_q_below_0.05,Sensitive_ALT_supported,NonSensitive_ALT_supported,ranking_basis,preliminary_rank
+Rv3263,Pre-XDR vs Sensitive,11.076923076923077,0.0007433319492325133,3,3,47,Exploratory association only; annotation and lineage validation pending,1
+Rv2024c,MDR vs Sensitive,13.066666666666666,0.0007433319492325133,3,2,36,Exploratory association only; annotation and lineage validation pending,2

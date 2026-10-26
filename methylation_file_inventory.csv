@@ -1,0 +1,8 @@
+source,file,path,status,rows,columns,id_column,matched_isolates
+Modlin,elife-58542-fig2-data1.csv,/mnt/d/MFCGR_PROJECT/04_MODLIN_METHYLATION/elife-58542-fig2-data1.csv,OK,792046,4,Isolate,0
+Modlin,elife-58542-fig2-data2.csv,/mnt/d/MFCGR_PROJECT/04_MODLIN_METHYLATION/elife-58542-fig2-data2.csv,OK,500608,5,Isolate,0
+Modlin,elife-58542-fig3-data1.csv,/mnt/d/MFCGR_PROJECT/04_MODLIN_METHYLATION/elife-58542-fig3-data1.csv,OK,36774,7,,0
+Modlin,elife-58542-fig3-data2.csv,/mnt/d/MFCGR_PROJECT/04_MODLIN_METHYLATION/elife-58542-fig3-data2.csv,OK,550,8,,0
+Modlin,elife-58542-fig4-data1.csv,/mnt/d/MFCGR_PROJECT/04_MODLIN_METHYLATION/elife-58542-fig4-data1.csv,OK,271065,4,Isolate,0
+Modlin,elife-58542-fig4-data2.csv,/mnt/d/MFCGR_PROJECT/04_MODLIN_METHYLATION/elife-58542-fig4-data2.csv,OK,46424,4,Isolate,0
+Modlin,elife-58542-fig4-data3.csv,/mnt/d/MFCGR_PROJECT/04_MODLIN_METHYLATION/elife-58542-fig4-data3.csv,OK,55876,4,Isolate,0

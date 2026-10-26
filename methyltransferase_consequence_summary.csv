@@ -1,0 +1,10 @@
+gene,Consequence,VariantRecords
+hsdM,missense,103
+hsdM,synonymous,6
+hsdS,missense,21
+hsdS,synonymous,1
+mamA_candidate,missense,69
+mamA_candidate,synonymous,21
+mamB_candidate,missense,244
+mamB_candidate,stop_gained,1
+mamB_candidate,synonymous,38

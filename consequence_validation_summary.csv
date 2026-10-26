@@ -1,0 +1,8 @@
+validation_status,records
+OK,504
+existing_consequence_matches_true,504
+existing_consequence_matches_false,0
+existing_position_matches_true,504
+existing_position_matches_false,0
+existing_change_matches_true,438
+existing_change_matches_false,66

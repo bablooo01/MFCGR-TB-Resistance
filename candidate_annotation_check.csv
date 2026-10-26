@@ -1,0 +1,9 @@
+candidate_locus,tested_position,tested_REF,tested_ALT,feature,start,end,strand,gene,locus_tag,product,protein_id
+Rv2024c,2269545,G,A,gene,2268693,2270240,-,,Rv2024c,,
+Rv2024c,2269545,G,A,CDS,2268693,2270240,-,,Rv2024c,hypothetical protein,NP_216540.1
+Rv2756c,3069167,A,G,gene,3068461,3070083,-,hsdM,Rv2756c,,
+Rv2756c,3069167,A,G,CDS,3068461,3070083,-,hsdM,Rv2756c,type I restriction/modification system DNA methylase HsdM,NP_217272.1
+Rv2761c,3072285,A,C,gene,3071546,3072640,-,hsdS,Rv2761c,,
+Rv2761c,3072285,A,C,CDS,3071546,3072640,-,hsdS,Rv2761c,type I restriction/modification system specificity determinant HsdS,NP_217277.1
+Rv3263,3643985,A,C,gene,3643177,3644838,+,,Rv3263,,
+Rv3263,3643985,A,C,CDS,3643177,3644838,+,,Rv3263,DNA methylase,NP_217780.1

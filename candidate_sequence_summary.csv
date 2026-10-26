@@ -1,0 +1,5 @@
+locus,start,end,strand,length_bp,valid_ACGT_bases,product,CGR_file
+Rv2024c,2268693,2270240,-,1548,1548,hypothetical protein,/mnt/d/MFCGR_PROJECT/08_RESULTS/figures/CGR_Rv2024c.png
+Rv2756c,3068461,3070083,-,1623,1623,type I restriction/modification system DNA methylase HsdM,/mnt/d/MFCGR_PROJECT/08_RESULTS/figures/CGR_Rv2756c.png
+Rv2761c,3071546,3072640,-,1095,1095,type I restriction/modification system specificity determinant HsdS,/mnt/d/MFCGR_PROJECT/08_RESULTS/figures/CGR_Rv2761c.png
+Rv3263,3643177,3644838,+,1662,1662,DNA methylase,/mnt/d/MFCGR_PROJECT/08_RESULTS/figures/CGR_Rv3263.png

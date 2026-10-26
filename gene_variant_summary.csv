@@ -1,0 +1,5 @@
+gene,Variant_records,Unique_variants,Isolates_with_variants,Missense_records,Synonymous_records,Stop_gained_records
+hsdM,109,4,86,103,6,0
+hsdS,22,3,22,21,1,0
+mamA_candidate,90,26,64,69,21,0
+mamB_candidate,283,9,120,244,38,1
